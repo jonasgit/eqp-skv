@@ -1,0 +1,14 @@
+# Personal data: exports and generated tables
+*.csv
+*.xlsx
+*.xls
+*.pdf
+
+# Build output
+eqpskv/dist/
+eqpskv/eqpskv
+eqpskv/eqpskv.exe
+
+# Python
+__pycache__/
+*.pyc
